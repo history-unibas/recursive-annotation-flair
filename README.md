@@ -35,6 +35,6 @@ The data will be output in a `jsonl`-file with a json-encoded string on each lin
 Head elements are automatically added to their parent spans, but you can turn this off by changing the `nest_heads`-parameter in the main-clause to `False`.
 
 ## Citation
-If you use this script for any published works, we'd by glad if you would cite us:
+If you use this script for any published works, please cite this work:
 
 Prada Ziegler, I. (2024, May 30). What's in an entity? Exploring Nested Named Entity Recognition in the Historical Land Register of Basel (1400-1700). DH Benelux 2024, Leuven, Belgium. Zenodo. https://doi.org/10.5281/zenodo.11394453
